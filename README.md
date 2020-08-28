@@ -15,7 +15,7 @@ Tableau Visualization:
 https://public.tableau.com/profile/spencer.tse3136#!/vizhome/Covid-19QuickOverview/Dashboard1
 
 ### DataCollection
-This directory contains two python scripts to wrap the Google Sheet API for data upload, and Alphavantage API for obtaining Financial Market Data. \
+This directory contains two python scripts to wrap the Google Sheet API for data upload, and Alphavantage API for obtaining Financial Market Data.
 
 - GoogleSheetUpload.py
 - StockDataCollection.py
