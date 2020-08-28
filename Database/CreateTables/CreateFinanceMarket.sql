@@ -1,0 +1,5 @@
+CREATE TABLE FinanceMarket (
+    FinanceMarketid AUTO_INCREMENT PRIMARY KEY,
+    DATE TEXT,
+    SPY REAL NOT NULL,
+    GLD REAL NOT NULL);

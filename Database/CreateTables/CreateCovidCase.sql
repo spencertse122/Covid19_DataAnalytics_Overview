@@ -1,0 +1,3 @@
+CREATE TABLE CovidCase (
+    CovidCaseid AUTO_INCREMENT PRIMARY KEY,
+    DATE TEXT);
