@@ -13,7 +13,7 @@ https://public.tableau.com/profile/spencer.tse3136#!/vizhome/Covid-19QuickOvervi
 This directory contains two python scripts to wrap the Google Sheet API for data upload, and Alphavantage API for obtaining Financial Market Data. 
 
 ### Database
-Contains a few SQLite3 files to get a simple table for backing up data and future work
+Contains a few SQL files to get a simple table for backing up data and future work
 
 
 ##Data Sources:
