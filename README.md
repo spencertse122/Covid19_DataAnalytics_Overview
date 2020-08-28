@@ -16,7 +16,10 @@ This directory contains two python scripts to wrap the Google Sheet API for data
 Contains a few SQL files to get a simple table for backing up data and future work
 
 
-##Data Sources:
+
+
+
+## Data Sources:
 Johns Hopkins University Coronavirus Resource Center - https://www.zillow.com/research/data/
 Zillow - https://www.zillow.com/research/data/
 Gabriel Preda - https://www.kaggle.com/gpreda/covid19-tweets
