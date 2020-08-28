@@ -1,4 +1,4 @@
-# Covid19_DataAnalytics_Overview
+# Covid-19 Data Analytics Overview
 This is a small project producing insights to the pandemic outbreak and the economy impact
 
 ## Project Breakdown
