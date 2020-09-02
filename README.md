@@ -7,7 +7,7 @@ This is a small project producing insights to the pandemic outbreak and the econ
 This directory contains some explorations to how the coronavirus spread, potential real estate bubble burst, attempted to apply Vader Sentiment analytic tools to obtain social reaction, and cleanings and manipulating all data for Tableau visualization.
 
 1. Covid Cases Data Exploration
-2. Current Real Estates Bubble 
+2. Potential Real Estates Bubble 
 3. Covid Tweets VaderSentiment 
 4. Tableau Preparation & Joining All Data (to Google Sheet)
 
